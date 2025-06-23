@@ -42,5 +42,5 @@ As the Health Program Officer, I served as the **Project Lead**. My responsibili
 * **Workflow Diagrams:**
   * [View Data Workflow 1.0 (PDF)](Covid19%20Workflow%20V1.png) 
   * [View Data Workflow 2.0 (PDF)](Covid19%20workflow%20v2.png)
-* **Data & Pivot Table Samples:**
+* **Data Presentation:**
   * [View Data Sample  (Image)](Presentation.png)
