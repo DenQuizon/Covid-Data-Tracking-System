@@ -40,7 +40,7 @@ As the Health Program Officer, I served as the **Project Lead**. My responsibili
 ## 📂 Project Artifacts
 
 * **Workflow Diagrams:**
-  * [View Data Workflow 1.0 (PDF)]()
-  * [View Data Workflow 2.0 (PDF)]()
+  * [View Data Workflow 1.0 (PDF)](Covid19 Workflow V1.png) 
+  * [View Data Workflow 2.0 (PDF)](Covid19 Workflow v2.png)
 * **Data & Pivot Table Samples:**
   * [View Data Sample  (Image)](image_e0f71e.png)
