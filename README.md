@@ -1,4 +1,4 @@
-# COVID-19 Provincial Tracking & Reporting System
+# COVID-19 Provincial Tracking, Data Reconciliation & Reporting System
 
 ![Dashboard Screenshot](image_dfa920.png)
 
